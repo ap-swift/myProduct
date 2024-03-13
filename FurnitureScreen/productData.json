@@ -1,0 +1,28 @@
+[
+    {
+        "id": 1,
+        "article": 1111111,
+        "name": "Chair classic",
+        "category": "Chairs",
+        "delivery": true,
+        "colors": ["green", "white", "beige"],
+        "oldPrice": "10000",
+        "price": "7000",
+        "imagesNames": ["46460", "46465", "46470", "46472"],
+        "description": "A chair from famous designer Emilio Polo with colored stripes on the seat will add color to any interior. An elegant combination of materials will add originality to your decor. Ideal premises: kitchen, dining room, office, veranda.",
+        "modelName": "ChairObject.scn"
+    },
+    {
+        "id": 2,
+        "article": 2222222,
+        "name": "Chair",
+        "category": "Стулья",
+        "delivery": false,
+        "colors": ["green", "beige"],
+        "oldPrice": "10000",
+        "price": "8000",
+        "imagesNames": null,
+        "description": "Chair classic",
+        "modelName": null
+    }
+]
